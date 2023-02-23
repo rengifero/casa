@@ -1,72 +1,28 @@
 - name: Home
   slug: /
   photos:
-    - title: Front View
-      alt: Exterior Front View
-      url: ../assets/LorraineCt_2640.jpg 
-    - title: Living Room
-      alt: Living Room
-      url: ../assets/LorraineCt_2566.jpg
-    - title: Kitchen
-      alt: Kitchen
-      url: ../assets/D85_0279_03.jpg
-    - title: Bedroom
-      alt: Bedroom
-      url: ../assets/D85_0259_rs.jpg
-    - title: Outdoor Fire
-      alt: Outdoor Fire
-      url: ../assets/D85_0301_rs.jpg
-    - title: Master Bedroom
-      alt: Master Bedroom
-      url: ../assets/D85_0325_rs.jpg
-    - title: Master Bath
-      alt: Master Bath
-      url: ../assets/D85_0342_04.jpg
-    - title: Great Room
-      alt: Great Room
-      url: ../assets/D85_0354_02.jpg
-    - title: Great Room
-      alt: Great Room
-      url: ../assets/D85_0153_03.jpg
-    - title: Bedroom1
-      alt: Bedroom1
-      url: ../assets/D85_0131_02.jpg
-    - title: Bedroom2
-      alt: Bedroom2
-      url: ../assets/D85_0117_02.jpg
-    - title: Master Bath
-      alt: Master Bath
-      url: ../assets/D85_0143_02.jpg
-    - title: Sun Lounge
-      alt: Sun Lounge
-      url: ../assets/D85_0184_02.jpg
-    - title: Twilight
-      alt: Twilight
-      url: ../assets/DSC_1753_2.jpg
-    - title: Family Room
-      alt: Family Room
-      url: ../assets/LorraineCt_2491.jpg
-    - title: Bedroom
-      alt: Bedroom
-      url: ../assets/LorraineCt_2504.jpg
-    - title: Master Bed Room
-      alt: Master Bed Room
-      url: ../assets/LorraineCt_2515.jpg
-    - title: Master Bed Room
-      alt: Master Bed Room
-      url: ../assets/LorraineCt_2522.jpg
-    - title: Master Bath
-      alt: Master Bath
-      url: ../assets/LorraineCt_2527.jpg
-    - title: Master Bath
-      alt: Master Bath
-      url: ../assets/LorraineCt_2536.jpg
-    - title: Kitchen
-      alt: Kitchen
-      url: ../assets/DSC_3097.jpg
-    - title: Stairs
-      alt: Stairs
-      url: ../assets/DSC_3137.jpg
-    - title: Kitchen
-      alt: Kitchen
-      url: ../assets/DSC_3895.jpg
+    - title: Vista Forntal Exterior
+      alt: Vista Forntal Exterior
+      url: ../assets/finca_fachada.jpg 
+    - title: Acceso Principal
+      alt: Acceso Principal
+      url: ../assets/finca_entrada.jpg
+    - title: Sala
+      alt: Sala
+      url: ../assets/finca_sala.jpg
+    - title: Cosina
+      alt: cosina
+      url: ../assets/finca_cosina.jpg
+    - title: Comedor
+      alt: Comedor
+      url: ../assets/finca_comedor.jpg
+    - title: Habitacion1
+      alt: Habitacion1
+      url: ../assets/finca_habitacion1.jpg
+    - title: Habitacion2
+      alt: Habitacion2
+      url: ../assets/finca_habitacion2.jpg
+    - title: Habitacion3
+      alt: Habitacion3
+      url: ../assets/finca_habitacion3.jpg
+    

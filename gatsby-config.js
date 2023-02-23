@@ -1,58 +1,45 @@
 module.exports = {
   siteMetadata: {
     title: `Matt Hoffman\nPhoto`,
-    description: `Beautiful, professional photographs for marketing real estate. Serving Prescott Valley, Prescott, and surrounding area.`,
+    description: `Hermosa casa de descanso para un fin de semana con la familoia y amigos`,
     // this doesn't work: keywords: `professional, photography, real estate, marketing, prescott, prescott valley, arizona, az`,
     author: "Matt Hoffman",
     image: "https://www.matthoffmanphoto.com/static/de9cd208614cdc2803b70c0cee91982f/e7136/LorraineCt_2491.webp",
-    name: `Matt Hoffman Photography`,
-    tagline: `Beautiful Images for Real Estate`,
+    name: `Real State Cima`,
+    tagline: `Renta casa de fin de semana`,
     menuLinks: [
       {
-        name: "Gallery",
+        name: "Galería",
         url: `/`,
         type: "internal"
       },
-      // {
-      //   name: "Pricing",
-      //   url: "/prices/",
-      //   type: "internal" // internal or anchor
-      // },
+      /* {
+         name: "Pricing",
+         url: "/prices/",
+         type: "internal" // internal or anchor
+       }, */
       {
-        name: "Home Prep",
+        name: "Servicios",
         url: "/home-prep/",
         type: "internal"
       },
       {
-        name: "Terms of Service",
+        name: "Términos del Servicio",
         url: "/terms",
         type: "internal"
       },
-      {
+     /*  {
         name: "About",
         url: "/about",
         type: "internal"
-      },
+      }, */
       {
-        name: "Contact",
+        name: "Contacto",
         url: "/contact-me/",
         type: "internal"
       },
     ],
-    social: [
-      {
-        name: `Facebook`,
-        url: `https://facebook.com`,
-      },
-      {
-        name: `Twitter`,
-        url: `https://twitter.com`,
-      },
-      {
-        name: `Instagram`,
-        url: `https://instagram.com`,
-      },
-    ],
+
   },
   plugins: [
     //{resolve: `gatsby-plugin-react-helmet`},

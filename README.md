@@ -136,7 +136,7 @@ module.exports = {
       }
     ],
     // Social links
-    social: [
+   /*  social: [
       {
         name: `Facebook`,
         url: `https://facebook.com`
@@ -149,7 +149,7 @@ module.exports = {
         name: `Instagram`,
         url: `https://instagram.com`
       }
-    ]
+    ] */
   }
 }
 ```
