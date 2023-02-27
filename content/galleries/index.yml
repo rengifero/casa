@@ -1,9 +1,12 @@
-- name: Home
+- name: El Manantial
   slug: /
   photos:
     - title: Vista Forntal Exterior
       alt: Vista Forntal Exterior
       url: ../assets/finca_fachada.jpg 
+    - title: Manantial
+      alt: Manantial
+      url: ../assets/manantial1.jpg
     - title: Acceso Principal
       alt: Acceso Principal
       url: ../assets/finca_entrada.jpg
@@ -25,4 +28,27 @@
     - title: Habitacion3
       alt: Habitacion3
       url: ../assets/finca_habitacion3.jpg
-    
+    - title: Lago
+      alt: Lago
+      url: ../assets/lago.jpeg
+    - title: Rio
+      alt: Rio
+      url: ../assets/rio.jpeg
+    - title: Rio1
+      alt: Rio1
+      url: ../assets/rio1.jpg
+    - title: Rio2
+      alt: Rio2
+      url: ../assets/rio2.jpeg
+    - title: Ruta
+      alt: Ruta
+      url: ../assets/ruta.jpeg
+    - title: Ruta1
+      alt: Ruta1
+      url: ../assets/ruta2.jpeg
+    - title: Area Verde
+      alt: Area Verde
+      url: ../assets/area_verde.jpeg
+    - title: Bosque
+      alt: Bosque
+      url: ../assets/bosque.jpeg

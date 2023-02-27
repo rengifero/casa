@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Matt Hoffman\nPhoto`,
+    title: `El Manantial`,
     description: `Hermosa casa de descanso para un fin de semana con la familoia y amigos`,
     // this doesn't work: keywords: `professional, photography, real estate, marketing, prescott, prescott valley, arizona, az`,
-    author: "Matt Hoffman",
-    image: "https://www.matthoffmanphoto.com/static/de9cd208614cdc2803b70c0cee91982f/e7136/LorraineCt_2491.webp",
-    name: `Real State Cima`,
-    tagline: `Renta casa de fin de semana`,
+    author: "real state",
+    image: "../assets/cabana_el_manantial.jpg",
+    name: `cabaña`,
+    tagline: ``,
     menuLinks: [
       {
         name: "Galería",
@@ -36,6 +36,11 @@ module.exports = {
       {
         name: "Contacto",
         url: "/contact-me/",
+        type: "internal"
+      },
+      {
+        name: "Ubicación",
+        url: "/ubicacion/",
         type: "internal"
       },
     ],
