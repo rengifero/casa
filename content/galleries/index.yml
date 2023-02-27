@@ -28,6 +28,21 @@
     - title: Habitacion3
       alt: Habitacion3
       url: ../assets/finca_habitacion3.jpg
+    - title: Alberca1
+      alt: alberca1
+      url: ../assets/alberca1.jpeg
+    - title: Alberca2
+      alt: alberca2
+      url: ../assets/alberca2.jpeg
+    - title: Alberca3
+      alt: alberca3
+      url: ../assets/alberca3.jpeg
+    - title: Alberca4
+      alt: alberca4
+      url: ../assets/alberca4.jpeg
+    - title: Bosque
+      alt: Bosque
+      url: ../assets/bosque.jpeg
     - title: Lago
       alt: Lago
       url: ../assets/lago.jpeg
