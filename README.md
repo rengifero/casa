@@ -111,15 +111,15 @@ In addition to the theme options, there are a handful of items you can customize
 module.exports = {
   siteMetadata: {
     // Used for the site title and SEO
-    title: `Serena`,
+    title: `Cabaña`,
     // Used for the site description and SEO
-    description: `Photography Theme`,
+    description: `Cabaña de descanso`,
      // Used for SEO
     author: "Gatsby",
     // Used for SEO. Must be the full URL for the default image
     image: 'https://www.example.com/og-image.jpg',
     // Typographic logo
-    name: `Serena`,
+    name: `Cabaña`,
     // Short tagline
     tagline: `Photography Theme`,
     // Navigation links (this is the default)
