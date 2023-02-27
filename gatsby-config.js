@@ -51,8 +51,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Serena`,
-        short_name: `Serena`,
+        name: `Cabaña`,
+        short_name: `Cabaña`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
